@@ -1,6 +1,6 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
-https://github.com/kimwang1978/collect-txt/blob/main/%E4%B8%93%E5%8C%BA/%E2%99%AA%E4%BC%98%E8%B4%A8%E5%A4%AE%E8%A7%86.txt
+https://github.com/kimwang1978/collect-txt/blob/main/bbxx.m3u
 
 
 
